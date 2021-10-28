@@ -5,11 +5,10 @@ output:
     toc: FALSE
 ---
 
-# Hello
+# MADA Online Couse on Data Analysis 
 
-### And hello again
 
-Welcome to **my website** and _data analysis portfolio._ 
+### to **my website** and _data analysis portfolio._ 
 
 
 * Please use the `Menu Bar` above to look around.
