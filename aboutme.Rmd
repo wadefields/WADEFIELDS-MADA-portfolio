@@ -4,11 +4,11 @@ output:
   html_document:
     toc: FALSE
 ---
-
+![](photo_head_shot.jpg){width=10%}
 
 ## My name is Wade!
 
-![Wade Fields](photo_head_shot.jpg)
+
 
 I have been using R for a couple years. I'm mostly self taught and looking forward to completing a structured course. 
 
