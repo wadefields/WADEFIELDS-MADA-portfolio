@@ -5,11 +5,9 @@ output:
     toc: FALSE
 ---
 
-#About Me
+## My name is Wade!
 
-### My name is Wade!
-
-![Wade Fields - Photo](/photo_head_shot.jpg)
+<img src="http://wadefields.me/WADEFIELDS-MADA-portfolio/photo_head_shot.jpg" width="45" height="45") />
 
 I have been using R for a couple years. I'm mostly self taught and looking forward to completing a structured course. 
 
